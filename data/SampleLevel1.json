@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "name": "Skibidi Sigma UNNERFED",
+    "author": "67Mangos & more",
+    "creators": ["67Mangos", "JoeMama", "Mymotheratefries"],
+    "verifier": "zonk",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "LiterallyNotHGDOIASJ",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "percent": 100,
-            "hz": 360
+            "hz": 670
         }
     ]
 }
