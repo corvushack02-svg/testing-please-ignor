@@ -1,0 +1,24 @@
+{
+    "id": "idk",
+    "name": "Ascension to joe",
+    "author": "Joe",
+    "creators": ["joe", "EvanBurger", "MangoTuffer67"],
+    "verifier": "zonk",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "lpopout",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 670
+        },
+              {
+            "user": "vicot2",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 55
+        }
+    ]
+}
