@@ -1,0 +1,24 @@
+{
+    "id": "124645172",
+    "name": "Tom 691",
+    "author": "Idkguy82145",
+    "creators": ["Idkguy82145", "EvanBurger", "JoeMama","Zonk","lpopout"],
+    "verifier": "joemetridash",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "lpopout",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 99999999999999999999999999999
+        },
+              {
+            "user": "zonk",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": "Inf"
+        }
+    ]
+}
