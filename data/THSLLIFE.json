@@ -4,7 +4,7 @@
     "author": "Idkguy82145",
     "creators": ["Idkguy82145"],
     "verifier": "Idkguy82145",
-    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "verification": "https://www.youtube.com/watch?v=cG8p6B4-Dmc",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
@@ -12,13 +12,13 @@
             "user": "LiterallyNotHGDOIASJ",
             "link": "https://www.youtube.com/watch?v=cG8p6B4-Dmc",
             "percent": 100,
-            "hz": 670
+            "hz": "NaN"
         },
               {
             "user": "zonk",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "link": "https://www.youtube.com/watch?v=gzBowshDaUw",
             "percent": 100,
-            "hz": 55
+            "hz": 999
         }
     ]
 }
